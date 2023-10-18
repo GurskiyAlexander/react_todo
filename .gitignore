@@ -1,0 +1,4 @@
+*my-app/node_modules
+
+*.xcuserstate
+.DS_Store
